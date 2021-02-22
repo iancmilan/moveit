@@ -6,6 +6,16 @@
 
 </div>
 
+## :bookmark: Sobre
+
+O **MoveIt** é uma plataforma baseada na técnica Pomodoro, que consiste em utilizar um cronômetro para dividir ciclos de estudo/trabalho em períodos de 25 minutos,  separados por breves intervalos. Seu principal objetivo é manter o usuário com foco total em sua atividade durante cada tempo.
+
+## :computer: Tecnologia
+
+O projeto foi desenvolvido com a seguinte tecnologia:
+
+- [ReactJS](https://reactjs.org)
+
 ### :construction_worker::construction: Em construção :construction_worker::construction:
 
 <!-- Links -->
