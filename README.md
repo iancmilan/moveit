@@ -2,7 +2,7 @@
 
 ![web] ![top_language] ![repo-size] ![license]
 
-### 🏃‍♂️ Projeto desenvolvido durante a #NLW04 da [Rocketseat] utilizando a tecnologias **ReactJS**.
+### 🏃‍♂️ Projeto desenvolvido durante a #NLW04 da [Rocketseat] utilizando a tecnologia **ReactJS**.
 
 </div>
 
