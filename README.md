@@ -1,5 +1,7 @@
 <div align="center">
 
+<img alt="Icon" title="Icon" src=".github/moveit.png" width="70px">
+
 ![web] ![top_language] ![repo-size] ![license]
 
 ### 🏃‍♂️ Projeto desenvolvido durante a trilha React na #NLW04 da [Rocketseat].
