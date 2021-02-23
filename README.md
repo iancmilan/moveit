@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Icon" title="Icon" src=".github/moveit.png" width="70px">
+![Project Image](.github/move-it.png)
 
 ![web] ![top_language] ![repo-size] ![license]
 
