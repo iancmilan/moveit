@@ -51,7 +51,7 @@ Esse projeto está sob licensa [MIT](LICENSE).
 [Rocketseat]: https://rocketseat.com.br/
 
 <!-- Bagdes -->
-[web]: https://img.shields.io/badge/web-React-5965E0?style=flat-square
+[web]: https://img.shields.io/badge/web-React-5965E0?style=flat-square&labelColor=121214
 [top_language]: https://img.shields.io/github/languages/top/iancmilan/moveit?style=flat-square&color=5965E0&labelColor=121214
 [license]: https://img.shields.io/github/license/iancmilan/moveit?style=flat-square&color=5965E0&labelColor=121214
 [repo-size]: https://img.shields.io/github/repo-size/iancmilan/moveit?style=flat-square&color=5965E0&labelColor=121214
