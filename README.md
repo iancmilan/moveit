@@ -1,6 +1,6 @@
 <div align="center">
 
-![Project Image](.github/move-it.png)
+![Project Image](.github/moveit.png)
 
 ![web] ![top_language] ![repo-size] ![license]
 
