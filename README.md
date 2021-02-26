@@ -18,14 +18,40 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
-### :construction_worker::construction: Em construção :construction_worker::construction:
+## :rocket: Preview
+
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-iancmilan.vercel.app/)
+
+## :wrench: Como utilizar
+
+#### Faça um clone do repositório:
+
+```sh
+  $ git clone https://github.com/iancmilan/moveit.git
+```
+
+#### Executando a plicação:
+
+```sh
+  $ cd moveit
+  # instalando as dependências do projeto
+  $ yarn
+
+  # executando o projeto
+  $ yarn dev
+```
+
+## :memo: Licença
+
+Esse projeto está sob licensa [MIT](LICENSE).
 
 <!-- Links -->
 [Rocketseat]: https://rocketseat.com.br/
 
 <!-- Bagdes -->
-[web]: https://img.shields.io/badge/web-React-63DAFA?style=flat-square
-[top_language]: https://img.shields.io/github/languages/top/iancmilan/moveit?style=flat-square
-[license]: https://img.shields.io/github/license/iancmilan/moveit?style=flat-square
-[repo-size]: https://img.shields.io/github/repo-size/iancmilan/moveit?style=flat-square
+[web]: https://img.shields.io/badge/web-React-5965E0?style=flat-square
+[top_language]: https://img.shields.io/github/languages/top/iancmilan/moveit?style=flat-square&color=5965E0&labelColor=121214
+[license]: https://img.shields.io/github/license/iancmilan/moveit?style=flat-square&color=5965E0&labelColor=121214
+[repo-size]: https://img.shields.io/github/repo-size/iancmilan/moveit?style=flat-square&color=5965E0&labelColor=121214
