@@ -12,6 +12,14 @@
 
 O **MoveIt** é uma plataforma baseada na técnica Pomodoro, que consiste em utilizar um cronômetro para dividir ciclos de estudo/trabalho em períodos de 25 minutos,  separados por breves intervalos. Seu principal objetivo é manter o usuário com foco total em sua atividade durante cada tempo.
 
+## 🖥 Demonstração
+
+Ao final de cada ciclo de 25 minutos o usuário recebe um desafio para completar durante o intervalo, a cada desafio completado o usuário recebe bônus de xp para upar de level na aplicação, as informações de level, experiência e desafios completados ficam salvas nos cookies do navegador.
+
+<p align="center">
+  <img alt="Level" title="Level" src=".github/moveit-demo.gif">
+</p>
+
 ## :computer: Tecnologias
 
 O projeto foi desenvolvido com as seguintes tecnologias:
@@ -22,7 +30,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :rocket: Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://moveit-iancmilan.vercel.app/)
+[![Move.it](https://img.shields.io/badge/vercel-acesse%20o%20move.it-5965E0?style=for-the-badge&logo=vercel&labelColor=121214)](https://moveit-iancmilan.vercel.app/)
 
 ## :wrench: Como utilizar
 
